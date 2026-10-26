@@ -1,0 +1,6 @@
+{
+  "name": "AICTE Smart Approval & Compliance Management System",
+  "description": "Integrated AICTE Approval Workflow Automation, Compliance Monitoring, and Alert Management System for Smart India Hackathon (SIH 2026 - SIH26262).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
